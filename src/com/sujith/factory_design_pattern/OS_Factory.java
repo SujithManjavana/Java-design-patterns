@@ -1,5 +1,6 @@
 package com.sujith.factory_design_pattern;
 
+//Factory Pattern is a part of creational design pattern
 public class OS_Factory {
     public OS getInstance(String str){
         switch (str){
