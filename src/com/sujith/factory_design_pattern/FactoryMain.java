@@ -1,4 +1,4 @@
-package com.sujith.factory;
+package com.sujith.factory_design_pattern;
 
 public class FactoryMain {
     public static void main(String[] args) {

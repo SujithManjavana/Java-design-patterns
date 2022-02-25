@@ -1,4 +1,4 @@
-package com.sujith.factory;
+package com.sujith.factory_design_pattern;
 
 public class OS_Factory {
     public OS getInstance(String str){
